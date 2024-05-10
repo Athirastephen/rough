@@ -6,7 +6,7 @@ int main() {
     // Input the two numbers
     printf("Enter the first number: ");
     scanf("%d", &num1);
-    printf("Enter the second number: ");
+    printf("Enter the second numberfvgjhb: ");
     scanf("%d", &num2);
 
     // Add the numbers
